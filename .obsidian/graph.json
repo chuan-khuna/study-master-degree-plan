@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Professor",
+      "color": {
+        "a": 1,
+        "rgb": 14054492
+      }
+    },
+    {
+      "query": "tag:#University",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "tag:#MasterDegree",
+      "color": {
+        "a": 1,
+        "rgb": 6066646
+      }
+    },
+    {
+      "query": "tag:#Me",
+      "color": {
+        "a": 1,
+        "rgb": 10541565
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.9984130859375,
+  "lineSizeMultiplier": 0.997216796875,
+  "collapse-forces": false,
+  "centerStrength": 0.397135416666667,
+  "repelStrength": 9.19759114583333,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 0.6446987299596192,
+  "close": false
+}
