@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ec9e6de3ca241a",
+        "id": "f1087f0dc135936f",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8b51e9ebb865fd",
+            "id": "9c08f3252d4ec991",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Master Degree/Chula - MSc Computer Science.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Master Degree/Chula - MSc Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Master Degree/Chula - MSc Computer Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Master Degree/Chula - MSc Computer Science.md"
+              }
             }
           }
         ],
@@ -140,17 +148,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e8b51e9ebb865fd",
+  "active": "9c08f3252d4ec991",
   "lastOpenFiles": [
-    "Master Degree/Kyushu Institute of Technology - Robotic, AI, Control Engineer.md",
-    "Insitute/Kyushu Institute of Technology.md",
-    "Me/Phattharanat.md",
-    "Me/Data Science.md",
-    "Master Degree/Chula - M.Eng Computer Engineering.md",
+    "Untitled.canvas",
+    "topics/IELTS.md",
+    "topics/CU-TEP.md",
+    "attachments/kyushu-scholarship-2023.jpg",
     "Master Degree/Chula - MSc Computer Science.md",
+    "Master Degree/Chula - M.Eng Computer Engineering.md",
     "Master Degree/KMUTNB - Computer Engineering Master Degree.md",
-    "Master Degree/Chula - MSc Statistics and Data Science.md",
-    "scholarship/Teaching Assistant Scholarship.md",
-    "People/Ekapol Chuangsuwanich.md"
+    "Me/Machine Learning.md",
+    "Master Degree/Kyushu Institute of Technology - Robotic, AI, Control Engineer.md",
+    "topics/English Proficiency Test.md"
   ]
 }

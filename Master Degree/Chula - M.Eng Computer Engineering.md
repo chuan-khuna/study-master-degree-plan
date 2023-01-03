@@ -1,4 +1,6 @@
-related to: [[Chula]]
+related to: 
+- [[Chula]]
+- compare with [[Chula - MSc Computer Science]]
 type:
 path: #Study 
 scholarship?:
@@ -7,7 +9,7 @@ degree: #MasterDegree
 ---
 
 Department of Computer Engineering has prepared the unique environment for research and basic application in the world of computer technology.
-We have many laboratories, specifically interesting in many computer science branches. All laboratories under our department are listed as follow.
+We have many laboratories, specifically interesting in many computer science branches. All laboratories under our department are listed as follow. ^9a36f9
 
 # Chula - M.Eng Computer Engineering
 
@@ -24,4 +26,11 @@ is the plan **doing thesis and studying some electives**, opening for Bachelor o
 	- 2110792 **Advanced Topics in Artificial Intelligence** 3(3-0-9)
 	- 2110697 Special Topics in Computer Science I 3(3-0-9)
 	- 2110698 Special Topics in Computer Science II 3(3-0-9)
+## - Courses 12 credits (choose 4)
+## - Non-credit course
+	1.  2110606 Research Methods in Computer Engineering 3(3-0-9)
+	2.  2110701 Seminar in Computer Engineering I 1(0-3-1)
+	3.  2110702 Seminar in Computer Engineering II 1(0-3-1)
+## - Thesis 24 credits
+
 

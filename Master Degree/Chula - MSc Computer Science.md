@@ -10,12 +10,15 @@ degree: #MasterDegree
 
 # Chula - MSc Computer Science
 
-https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/
+- Department of Computer Engineering? ![[Chula - M.Eng Computer Engineering#^9a36f9]]
 
+https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/
 [[Teaching Assistant Scholarship]]
 
 # Admission
-- [[English Proficiency Test]] [[IELTS]] 3.5
+- [[English Proficiency Test]] 
+	- [[IELTS]] 3.5
+	- [[CU-TEP]] 38
 - https://www.grad.chula.ac.th/en/index.php
 - https://www.reg.chula.ac.th/List_Enroll_Sem_265Eng.pdf
 
@@ -34,12 +37,23 @@ track elective course - 9 credits (choose 1 track)
 general elective course - 6 credits
 seminar
 
+## - Courses 24 credits
+## - Thesis 12 credits
+
+## Required Course - 3x3 credits
+-   2110607 Research Methods in Computer Science 3(3-0-9)
+-   2110636 Performance Analysis and Evaluation 3(3-0-9)
+-   2110681 Computer Algorithm 3(3-0-9)
+-   2110701 Seminar in Computer Engineering I 1(0-1-3)
+
 ## Intelligent System track - choose 3
 - 2110654 [[Artificial Intelligence]] 3(3-0-9)
 - 2110743 [[Machine Learning]] 3(3-0-9)
 - 2110773 [[Data Mining]] 3(3-0-9)
 - ~~2110682 Embedded and Real-Time Systems 3(3-0-9)~~
 - ~~2110714 Digital Systems 3(3-0-9)~~
+- NLP?
+- ASR?
 
 ## general elective - choose 2
 - 2110746 Big Data Analytics 3(3-0-9)

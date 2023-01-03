@@ -9,7 +9,7 @@ degree: #MasterDegree
 at [[KMUTNB]]
 supervisors [[WRW]], [[DRS]], [[NCC]]
 
-# Course, 8 subjects/24 credits
+# Course choose 8/24 credits
 
 [[NCC]]
 - algorithm
