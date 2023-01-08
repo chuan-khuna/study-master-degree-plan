@@ -12,13 +12,16 @@ degree: #MasterDegree
 
 - Department of Computer Engineering? ![[Chula - M.Eng Computer Engineering#^9a36f9]]
 
-https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/
+- register information: https://www.grad.chula.ac.th/en/index.php
+- https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/
+- **Fee (group 1) - 31k/semester** https://www.reg.chula.ac.th/fee1.html
+
 [[Teaching Assistant Scholarship]]
 
 # Admission
 - [[English Proficiency Test]] 
 	- [[IELTS]] 3.5
-	- [[CU-TEP]] 38
+	- [[CU-TEP]] 38 <<
 - https://www.grad.chula.ac.th/en/index.php
 - https://www.reg.chula.ac.th/List_Enroll_Sem_265Eng.pdf
 

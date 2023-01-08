@@ -22,3 +22,5 @@ supervisors [[WRW]], [[DRS]], [[NCC]]
 - Software
 [[WRW]]
 - Selected topic? Data Mining [[Machine Learning]] [[Data Science]] [[Statistics]] [[Data Visualisation]]
+
+One benefit of studying at [[KMUTNB]] is that I can play [[Table Tennis]]

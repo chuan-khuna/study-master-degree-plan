@@ -10,3 +10,6 @@ https://attapol.github.io/
 # lab
 https://attapol.github.io/lab.html
 - He is an advisor of one Computer Science MA student
+
+- He talked about [[Transformer]] once, with The standard
+	- and he may teach this subject too

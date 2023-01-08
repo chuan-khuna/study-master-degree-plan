@@ -8,12 +8,14 @@ degree: #MasterDegree
 
 ---
 
+# Chula - M.Eng Computer Engineering
+
 Department of Computer Engineering has prepared the unique environment for research and basic application in the world of computer technology.
 We have many laboratories, specifically interesting in many computer science branches. All laboratories under our department are listed as follow. ^9a36f9
 
-# Chula - M.Eng Computer Engineering
-
-https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerengineering/
+- register information: https://www.grad.chula.ac.th/en/index.php
+- https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerengineering/
+- **Fee (group 1) - 31k/semester** https://www.reg.chula.ac.th/fee1.html
 
 # Plan A2 
 is the plan **doing thesis and studying some electives**, opening for Bachelor of Engineering in any branches (except Computer Engineering).
