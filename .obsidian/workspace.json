@@ -13,46 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Degree/Reading - MSc Climate Change and Artificial Intelligence.md",
+                "file": "Me/Phattharanat.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ed566ee3b9fdf990",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Degree/Reading - MSc Data Science and Advanced Computing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eb8bdb47d5d54b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Master Degree/Chula - MSc Computer Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f92044bdbc3f96c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -111,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c36e9e509ff36710",
@@ -128,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Me/Phattharanat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Me/Phattharanat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Me/Phattharanat.md"
+              }
             }
           }
         ],
@@ -186,17 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f92044bdbc3f96c",
+  "active": "8320e5bdbd32ce67",
   "lastOpenFiles": [
-    "Me/Phattharanat.md",
     "Master Degree/Reading - MSc Climate Change and Artificial Intelligence.md",
     "Master Degree/Reading - MSc Data Science and Advanced Computing.md",
+    "Master Degree/Chula - MSc Computer Science.md",
+    "templates/Note Template.md",
+    "templates/Programme Template.md",
+    "Me/Phattharanat.md",
     "topics/Japan.md",
     "Insitute/Kyushu Institute of Technology.md",
     "Insitute/NIDA.md",
-    "Insitute/University of Reading.md",
-    "Insitute/UK Met Office.md",
-    "Insitute/UK ONS.md",
-    "Master Degree/Chula - MSc Computer Science.md"
+    "Insitute/University of Reading.md"
   ]
 }

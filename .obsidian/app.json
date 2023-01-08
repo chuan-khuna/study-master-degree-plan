@@ -2,5 +2,7 @@
   "showFrontmatter": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "showLineNumber": true,
+  "spellcheck": true
 }
