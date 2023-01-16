@@ -13,6 +13,7 @@ degree: #MasterDegree
 - Department of Computer Engineering? ![[Chula - M.Eng Computer Engineering#^9a36f9]]
 
 - register information: https://www.grad.chula.ac.th/en/index.php
+	- https://www.grad.chula.ac.th/en/programmes_detail.php
 - https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerscience/
 - **Fee (group 1) - 31k/semester** https://www.reg.chula.ac.th/fee1.html
 

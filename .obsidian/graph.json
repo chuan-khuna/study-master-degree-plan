@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,21 +11,21 @@
       "query": "tag:#Professor",
       "color": {
         "a": 1,
-        "rgb": 14054492
+        "rgb": 7242169
       }
     },
     {
       "query": "tag:#University",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 12707001
       }
     },
     {
       "query": "tag:#MasterDegree",
       "color": {
         "a": 1,
-        "rgb": 6066646
+        "rgb": 8243884
       }
     },
     {
@@ -33,6 +33,27 @@
       "color": {
         "a": 1,
         "rgb": 10541565
+      }
+    },
+    {
+      "query": "path:scholarship",
+      "color": {
+        "a": 1,
+        "rgb": 13467102
+      }
+    },
+    {
+      "query": "tag:#duedate",
+      "color": {
+        "a": 1,
+        "rgb": 15884127
+      }
+    },
+    {
+      "query": "path:\"daily notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 15132405
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 9.19759114583333,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 0.5396138826885213,
-  "close": true
+  "scale": 0.7554730497326364,
+  "close": false
 }

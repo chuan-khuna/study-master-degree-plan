@@ -14,6 +14,7 @@ Department of Computer Engineering has prepared the unique environment for resea
 We have many laboratories, specifically interesting in many computer science branches. All laboratories under our department are listed as follow. ^9a36f9
 
 - register information: https://www.grad.chula.ac.th/en/index.php
+	- https://www.grad.chula.ac.th/en/programmes_detail.php search for: 'computer'
 - https://www.cp.eng.chula.ac.th/en/prospective/graduate/master-computerengineering/
 - **Fee (group 1) - 31k/semester** https://www.reg.chula.ac.th/fee1.html
 

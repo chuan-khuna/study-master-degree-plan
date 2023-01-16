@@ -1,6 +1,3 @@
 related to:
+- [[England UK]]
 type: #University 
-
----
-
-Recommended by [[WRW]]
