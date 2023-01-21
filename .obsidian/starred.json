@@ -9,6 +9,16 @@
       "type": "file",
       "title": "Phattharanat",
       "path": "Me/Phattharanat.md"
+    },
+    {
+      "type": "file",
+      "title": "To-Do",
+      "path": "To-Do.md"
+    },
+    {
+      "type": "file",
+      "title": "Documents for OWID",
+      "path": "documents/Documents for OWID.md"
     }
   ]
 }

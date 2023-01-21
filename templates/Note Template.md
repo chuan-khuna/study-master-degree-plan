@@ -1,4 +1,7 @@
-related to:
+---
+
+aliases:
+relate to:
 type:
 path:
 scholarship?:
@@ -6,4 +9,5 @@ degree:
 
 ---
 
-# {{title}}
+# {{Title}}
+

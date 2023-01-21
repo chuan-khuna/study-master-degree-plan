@@ -37,7 +37,7 @@ https://geospatialcdt.ac.uk/phd-researchers/
 Research examples:
 - Cohort 3 - [A Spatiotemporal Analysis of Methane Emissions](https://geospatialcdt.ac.uk/team/keneuoe-maliehe/)
 - Cohort 4 - [Correcting Past and Future Rainfall Records.](https://geospatialcdt.ac.uk/team/ruth-dunn/)
-	- My project: [[Multidimensional Climate Data Visualisation and Bias Correction]]?
+	- My project: [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]?
 - Cohort 4 - [Geospatial data mining for intelligent resource use to deliver Net Zero Plus.](https://geospatialcdt.ac.uk/team/adewale-fayale/)
 
 # How to apply

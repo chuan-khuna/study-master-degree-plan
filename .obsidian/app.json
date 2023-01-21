@@ -4,5 +4,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "attachments",
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "useTab": false,
+  "tabSize": 2
 }

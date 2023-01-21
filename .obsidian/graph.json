@@ -55,6 +55,27 @@
         "a": 1,
         "rgb": 15132405
       }
+    },
+    {
+      "query": "tag:#todo",
+      "color": {
+        "a": 1,
+        "rgb": 14048360
+      }
+    },
+    {
+      "query": "tag:#Work",
+      "color": {
+        "a": 1,
+        "rgb": 14078556
+      }
+    },
+    {
+      "query": "tag:#company",
+      "color": {
+        "a": 1,
+        "rgb": 14069596
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +88,6 @@
   "repelStrength": 9.19759114583333,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 0.7554730497326364,
-  "close": false
+  "scale": 0.29175034035924285,
+  "close": true
 }

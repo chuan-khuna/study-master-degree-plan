@@ -4,5 +4,6 @@
   "cssTheme": "Things",
   "textFontFamily": "Inconsolata,MonoLisa",
   "monospaceFontFamily": "MonoLisa",
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": false
 }
