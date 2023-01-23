@@ -15,9 +15,9 @@ Code show case with brief explanation
   - A collection of snippets of code for solving problems that I have encountered.
   - eg data scraper, text cleaner, n-gram generator, colour palette extractor, RFM analysis
 - [x] Wordle but Statistics
-  - Use statistics to optimally solve the Wordle puzzle
-- [x] Chessboard Puzzle visualisation
-  - Use Matplotlib
+  - Use statistics/ to optimally solve the Wordle puzzle
+- [x] ~~Chessboard Puzzle Visualisation~~
+  - Use Matplotlib to visualise the Puzzle from 3B1B and Matt Parker.
 - [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]
   - My senior project at KMUTNB
   - Developed a backend server for climate analysis tasks: trend analysis, spatiotemporal data visualisation

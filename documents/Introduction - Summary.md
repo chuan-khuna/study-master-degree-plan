@@ -33,10 +33,7 @@ Provided analysis and visualisation for a strategy team. Analysed point of sale 
 
 "I have an avid interest in data science and data visualisation"
 
-- [x] Six months experience as a Data Scientist and Machine Learning Engineer. Focused on text data and time series analysis. Punctual and fast-learner. 
-- [x] Provided analysis and visualisation for a strategy team. 
-- [x] Analysed point of sale data using RFM analysis, cohort analysis and association rule. 
-- [x] Implemented data scraper for social media platforms. Trained a Transformer model for Speech Emotion Recognition and achieved 60% validation accuracy.
+Six months experience as a Data Scientist and Machine Learning Engineer. Focused on text data and time series analysis. Punctual and fast learner. Provided analysis and visualisation for a strategy team. Analysed point of sale data using RFM analysis, cohort analysis and association rule. Implemented data scraper for social media platforms. Trained a Transformer model for Speech Emotion Recognition and achieved 60% validation accuracy.
 
 # Self-Introduction/Email/Cover letter
 
