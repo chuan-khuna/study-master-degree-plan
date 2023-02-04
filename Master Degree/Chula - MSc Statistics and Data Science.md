@@ -11,7 +11,7 @@ degree: #MasterDegree
 https://datasci.cbs.chula.ac.th/
 https://datasci.cbs.chula.ac.th/curriculum plan and courses
 https://datasci.cbs.chula.ac.th/apply
-- Application [[2023-02-01]] - [[2023-04-28]]
+- Application [[2023-02-01 1]] - [[2023-04-28]]
 - 
 
 

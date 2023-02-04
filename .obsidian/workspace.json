@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80088aa36c1c09e2",
+        "id": "754d531d0723aa8a",
         "type": "tabs",
         "children": [
           {
-            "id": "1674cc84630d9300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/Documents for OWID.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a83349e8e5acadf4",
+            "id": "116fbb949a58d3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,57 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3d3b6ae221adac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/CV - draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38086853f181aab3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/Introduction - Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ab57f5bc81d2931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/Introduction - Summary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dba5dd64bf92b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "documents/Snippet of code - Portfolio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -155,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/CV - draft.md",
+                "file": "documents/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/CV - draft.md"
+                "file": "documents/CV.md"
               }
             }
           },
@@ -188,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/CV - draft.md",
+                "file": "documents/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "documents/CV - draft.md",
+                "file": "documents/CV.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,17 +234,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3d3b6ae221adac8",
+  "active": "116fbb949a58d3d8",
   "lastOpenFiles": [
-    "documents/CV.md",
-    "documents/CV - draft.md",
+    "documents/draft/Cover letter - Draft.md",
+    "daily notes/2023-02-03.md",
+    "documents/Introduction.md",
     "documents/Documents for OWID.md",
-    "documents/Introduction - Summary.md",
-    "documents/Snippet of code - Portfolio.md",
-    "Untitled.md",
-    "Me/Phattharanat.md",
-    "attachments/University of Oxford Style Guide 2014.pdf",
-    "topics/Data Scientist.md",
-    "Me/Bias Correction of Multi-Dimensional Climate Data and Visualization.md"
+    "documents/CV.md",
+    "documents/draft/CV - draft.md",
+    "daily notes/2023-02-01 1.md",
+    "Untitled.canvas",
+    "documents/draft/Introduction - Draft.md",
+    "Work/OWID - Data Scientist.md"
   ]
 }

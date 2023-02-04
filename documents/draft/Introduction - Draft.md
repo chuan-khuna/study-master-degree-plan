@@ -1,8 +1,3 @@
----
-aliases:
-  - Self-Introduction
-  - Personal Statement
----
 
 - [x] = include/complete
 - [?] = to check grammar, to paraphrase
@@ -23,13 +18,7 @@ v.1? | v.ing? | v.ed?
 
 An avid learner in data science and data visualisation with six months experience as a Data Scientist and Machine Learning Engineer who focuses on text data and time series analysis. 
 
-Punctual and fast-learner.
-
-Provided analysis and visualisation for a strategy team. Analysed point of sale data using RFM analysis, cohort analysis and association rule. Implemented data scraper for social media platforms. Trained a Transformer model for Speech Emotion Recognition and achieved 60% validation accuracy. 
-
 ~~Experienced in spatiotemporal data whilst working on the senior project.~~
-
----
 
 "I have an avid interest in data science and data visualisation"
 
@@ -48,7 +37,12 @@ Six months experience as a Data Scientist and Machine Learning Engineer. Focused
 
 Please provide some feedbacks for me so I can improve myself for the next opportunity.
 
+End/Salute
+
+
+
 ---
+
 
 - Ideas
 - Most of my tasks are about **Data Visualisation**
@@ -57,8 +51,8 @@ Please provide some feedbacks for me so I can improve myself for the next opport
 	- GA
 - [x] Network visualisation
 - [x] ML Text > Transformer SER
-- [x] Google Data Studio Dashboard
-- [x] Background in [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]
+- [x] Google Looker Studio Dashboard
+- [x] Background in [[Bias Correction of Multi-Dimensional Climate Data and Visualisation]]
 	- [[Time series]]
 
 - [x] communicate, inspire, (numberphile, RI) easy to understand without misleading information
@@ -70,3 +64,4 @@ Short Introduction - cover letter
 - [x] I am an avid learner in Data Visualisation.
 - [x] Todo: create a punchline here "An avid data visualisation learner"
 - [x] Fast Learner and **Punctual**?
+- [ ] ask for intern?

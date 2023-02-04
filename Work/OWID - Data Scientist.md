@@ -1,5 +1,5 @@
 relate to:
-- [[Our World In Data]]
+- [[Our World in Data]]
 type:
 path: #Work 
 
@@ -38,7 +38,7 @@ Our World in Data is produced through a close collaboration between academic res
 The problems the world faces are very diverse – [global poverty](https://ourworldindata.org/poverty), [climate change](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions), [child mortality](https://ourworldindata.org/child-mortality), [mental health](https://ourworldindata.org/mental-health), and [many more](https://ourworldindata.org/#entries). _Our World in Data_ readers who are concerned about these problems should be able to rely on our compilation of research, our database, and ==our visualizations to understand them clearly==, and learn how it is possible to make progress against them.
 	- [[Data Visualisation]]
 	- [[Climate Science]]
-	- [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]
+	- [[Bias Correction of Multi-Dimensional Climate Data and Visualisation]]
 
 
 #### About this role[](https://ourworldindata.org/data-scientist-2023-q1#about-this-role)

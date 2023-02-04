@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Professor",
@@ -78,16 +78,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.9984130859375,
   "lineSizeMultiplier": 0.997216796875,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.397135416666667,
   "repelStrength": 9.19759114583333,
   "linkStrength": 1,
   "linkDistance": 200,
-  "scale": 0.568794115690533,
+  "scale": 1.0955594862195932,
   "close": true
 }

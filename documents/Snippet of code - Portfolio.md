@@ -18,7 +18,7 @@ Code show case with brief explanation
   - Use statistics/ to optimally solve the Wordle puzzle
 - [x] ~~Chessboard Puzzle Visualisation~~
   - Use Matplotlib to visualise the Puzzle from 3B1B and Matt Parker.
-- [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]
+- [[Bias Correction of Multi-Dimensional Climate Data and Visualisation]]
   - My senior project at KMUTNB
   - Developed a backend server for climate analysis tasks: trend analysis, spatiotemporal data visualisation
   - Performed and evaluated performance of climate bias correction methods

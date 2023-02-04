@@ -34,7 +34,7 @@
 - I have some experience with these topics
   - [[Climate Science]] - [[Multidimensional Data]]
   - [[NILM - Non-Intrusive Load Monitoring]] (data visualisation)
-- [[Bias Correction of Multi-Dimensional Climate Data and Visualization]]
+- [[Bias Correction of Multi-Dimensional Climate Data and Visualisation]]
 - [[Bias Correction]]
 - [[Climate Science]] - [[Multidimensional Data]]
 - [[Data Mining]]
