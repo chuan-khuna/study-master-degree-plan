@@ -33,7 +33,7 @@ Todo
 # Phattharanat Khunakornophat
 Data Scientist/Machine Learning Engineer
 
-~~"I have an avid interest in data science and data visualisation"~~
+~~"I take an avid interest in data science and data visualisation"~~
 
 Six months of experience as a Data Scientist and Machine Learning Engineer. Focused on text data and time series analysis. Punctual and fast learner. Provided analysis and visualisation for a strategy team. Analysed point of sale data using RFM analysis, cohort analysis and association rule learning. Implemented data scraper for social media platforms. Trained a Transformer model for Speech Emotion Recognition and achieved 60% validation accuracy.
 

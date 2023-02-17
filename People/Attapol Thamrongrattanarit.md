@@ -11,6 +11,7 @@ https://www.arts.chula.ac.th/ling/people/faculty/attapol8/
 
 https://attapol.github.io/lab.html
 https://attapol.github.io/teaching.html
+inspiration: https://attapol.github.io/talks.html
 
 - He is an advisor of one Computer Science MA student
 

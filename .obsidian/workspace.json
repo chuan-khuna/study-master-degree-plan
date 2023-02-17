@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/CV.md",
+                "file": "People/Attapol Thamrongrattanarit.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c68304dc7683fd8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "documents/CV.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "documents/CV.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,17 +238,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "116fbb949a58d3d8",
+  "active": "6c68304dc7683fd8",
   "lastOpenFiles": [
-    "documents/draft/Cover letter - Draft.md",
+    "daily notes/2023-02-08.md",
     "daily notes/2023-02-03.md",
+    "People/Attapol Thamrongrattanarit.md",
     "documents/Introduction.md",
-    "documents/Documents for OWID.md",
     "documents/CV.md",
-    "documents/draft/CV - draft.md",
-    "daily notes/2023-02-01 1.md",
-    "Untitled.canvas",
-    "documents/draft/Introduction - Draft.md",
-    "Work/OWID - Data Scientist.md"
+    "documents/archived/Snippet of code - Portfolio.md",
+    "documents/archived/Documents for OWID.md",
+    "documents/archived/Research about Our World In Data.md",
+    "To-Do.md",
+    "documents/draft/Cover letter - Draft.md"
   ]
 }
